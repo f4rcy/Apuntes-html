@@ -47,7 +47,7 @@ Esa es la estructura básica de HTML5. Funciona así:
             ![](img/1.png)
             
 
-- **<link>:** esta etiqueta nos permite traer recursos externos a nuestra pagina.
+- **`<link>`:** esta etiqueta nos permite traer recursos externos a nuestra pagina.
     - `<link rel="icon" href="logohtml.png">`: Este atributo es para poner un icono en nuestra pagina web.
         - ***Ejemplo:*** En este caso el icono es el corazón.
     
